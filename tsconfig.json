@@ -1,4 +1,4 @@
-{
+p{
   "compileOnSave": false,
   "compilerOptions": {
     "outDir": "./dist/out-tsc",
